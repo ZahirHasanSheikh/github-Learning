@@ -1,1 +1,2 @@
-print("zahir and moosa")
+print("zahir and Huzaifa")
+print("Hello")
