@@ -1,0 +1,1 @@
+print("zahir and moosa")
